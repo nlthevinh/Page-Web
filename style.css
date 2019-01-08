@@ -1,0 +1,58 @@
+body{
+    background-image: url("chien.jpg");
+
+}
+
+header{
+    width: 800px;
+    margin: auto;
+}
+
+section{
+    width: 700px;
+    margin: auto;
+    border: 3px blue groove;
+    padding: 50px;
+    background-image: url("bois.jpg");
+}
+
+.bordure1{
+    border: 3px blue groove;
+    padding: 50px;
+    background-image: url("bois.jpg");
+}
+
+.bordure2{
+    border: 3px blue groove;
+    padding: 50px;
+    background-image: url("bois2.jpg");
+}
+
+
+footer{
+    width: 800px;
+    margin: auto;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    border: 3px blue groove;
+    padding: 50px;
+    background-image: url("bois2.jpg");
+}
+
+h2{
+    color: yellow;
+    text-align: center;
+}
+
+p{
+    color: pink;
+    text-align: justify;
+}
+
+.chien{
+    float: right;
+
+}
